@@ -1,16 +1,14 @@
-# tokopedia
+Latihan Flutter Basic 2 with berca
 
-A new Flutter project.
+RESTFUL API : https://github.com/flutterdotid/RESTFUL_API_LOGIN_REGISTER_BERCA
 
-## Getting Started
+Image Assets : http://flutter.id/webinar/berca/images.zip
 
-This project is a starting point for a Flutter application.
+#Login
+<img src="https://github.com/flutterdotid/flutter_login_register_tokopedia/blob/master/Screenshot_1.png">
 
-A few resources to get you started if this is your first Flutter project:
+#Register
+<img src="https://github.com/flutterdotid/flutter_login_register_tokopedia/blob/master/Screenshot_2.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Home
+<img src="https://github.com/flutterdotid/flutter_login_register_tokopedia/blob/master/Screenshot_3.png">
